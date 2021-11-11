@@ -1,6 +1,6 @@
 /*
 Title: T2Ti ERP 3.0                                                                
-Description: PersistePage relacionada à tabela [TRIBUT_OPERACAO_FISCAL] 
+Description: PersistePage relacionada à tabela [CFOP] 
                                                                                 
 The MIT License                                                                 
                                                                                 
