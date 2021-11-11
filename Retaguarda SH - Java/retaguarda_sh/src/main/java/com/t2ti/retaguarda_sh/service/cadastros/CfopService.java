@@ -1,6 +1,6 @@
 /*******************************************************************************
 Title: T2Ti ERP 3.0                                                                
-Description: Service relacionado à tabela [EMPRESA] 
+Description: Service relacionado à tabela [CFOP] 
                                                                                 
 The MIT License                                                                 
                                                                                 
